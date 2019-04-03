@@ -2,7 +2,7 @@ function tinhtong(a, b){
     if(typeof a !== 'number' || typeof b !== 'number'){
         throw Error('a, b phai la so')
     }
-
+    
     return a + b
 }
 

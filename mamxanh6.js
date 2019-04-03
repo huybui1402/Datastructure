@@ -4,6 +4,7 @@ function tinhDienTichHinhTron(bankinh){
     }
     let dientich = 3.14 * bankinh * bankinh;
     return dientich;
+    
 }
 
 console.log('==>',tinhDienTichHinhTron(121))
